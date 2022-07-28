@@ -1,4 +1,4 @@
-const mongoose = rqueire('mongoose');
+const mongoose = require('mongoose');
 
 const userSchema = mongoose.Schema({
     name : {
