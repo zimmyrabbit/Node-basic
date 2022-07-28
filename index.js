@@ -19,7 +19,7 @@ mongoose.connect('mongodb+srv://zimmyrabbit:4219@node-basic.dgxyg.mongodb.net/?r
 
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello World!!')
 })
 
 app.post('/register', (req,res) => {
