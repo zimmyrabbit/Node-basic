@@ -20,3 +20,12 @@ npm install body-parser
 --nodemon설치 
 --(-dev : 로컬 개발환경에서만 사용하는 용도 install)
 npm install nodemon --save-dev
+
+--Bcrypt설치
+npm install bcrypt --save
+
+--jsonWebToken설치
+npm install jsonwebtoken --save
+
+--cookie-parser설치
+npm install cookie-parser --save
