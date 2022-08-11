@@ -29,3 +29,9 @@ npm install jsonwebtoken --save
 
 --cookie-parser설치
 npm install cookie-parser --save
+
+--winston 설치
+npm install winston --save
+
+--React 설치
+npx create-react-app .
