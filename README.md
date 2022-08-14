@@ -41,3 +41,6 @@ npm install react-router-dom --save
 
 -- Axios 설치
 npm install axios --save
+
+--Proxy 설치
+http-proxy-middleware --save
