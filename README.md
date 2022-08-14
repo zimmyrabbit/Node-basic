@@ -37,4 +37,7 @@ npm install winston --save
 npx create-react-app .
 
 --React Router DOM 설치
-npm install react-router-dom
+npm install react-router-dom --save
+
+-- Axios 설치
+npm install axios --save
