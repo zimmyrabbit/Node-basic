@@ -44,3 +44,6 @@ npm install axios --save
 
 --Proxy 설치
 http-proxy-middleware --save
+
+--Concurrently 설치
+npm install concurrently --save
