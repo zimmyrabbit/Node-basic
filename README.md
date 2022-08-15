@@ -47,3 +47,6 @@ http-proxy-middleware --save
 
 --Concurrently 설치
 npm install concurrently --save
+
+--ant design 설치 (css framework)
+npm install antd
