@@ -50,3 +50,9 @@ npm install concurrently --save
 
 --ant design 설치 (css framework)
 npm install antd
+
+--Redux 설치
+--redux-thunk -> function
+--redux-promise -> promise
+    --> middle ware
+npm install redux react-redux redux-promise redux-thunk --save
